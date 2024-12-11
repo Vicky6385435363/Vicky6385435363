@@ -1,4 +1,5 @@
-👨‍💻 Vignesh K
+Vignesh K
+
 Aspiring Embedded Engineer | Passionate About Firmware Development
 
 
