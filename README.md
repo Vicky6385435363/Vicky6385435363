@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Vicky6385435363
+### 👋 Hi, I’m Vignesh
 
 - 👀 I’m interested in Embedded Systems, IoT, and Microcontroller Programming
 - 🌱 I’m currently learning advanced concepts in PIC Microcontroller applications, ARM Cortex_M3/M4 processor and real-time embedded solutions
