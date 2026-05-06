@@ -1,42 +1,138 @@
-<h1 align="center">Hi there, I'm Vignesh K! 👋</h1>
-<h3 align="center">Embedded Systems Engineer | Hardware Meets Code</h3>
+<div align="center">
 
-I'm currently pursuing my **M.E. in Embedded System Technologies** at the College of Engineering, Guindy. With a strong foundation in Electronics and Communication, I am obsessed with building robust, real-time systems—bridging the gap between the circuit board and the cloud. 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vignesh%20V&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Microcontroller%20Programming&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-Whether I'm writing task schedulers for microcontrollers or building full-stack mobile apps to monitor them, I love bringing complex systems to life.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;PIC+%26+ARM+Cortex+M3%2FM4+Developer+%F0%9F%92%BB;Real-Time+Control+Systems+Enthusiast+%E2%9A%99%EF%B8%8F;IoT+%26+Automation+Builder+%F0%9F%9A%80;Making+Things+Move+With+Code+%E2%9A%A1)](https://git.io/typing-svg)
 
----
+<!-- Contact Badges -->
+[![Email](https://img.shields.io/badge/Gmail-vigneshvicky2k3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshvicky2k3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vicky6385435363-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vicky6385435363)
+![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet?style=for-the-badge)
 
-### 👨‍💻 What I'm Up To
-
-- 🎓 **Studying:** Deep diving into advanced ARM Cortex-M architecture, Real-Time Operating Systems (FreeRTOS), and distributed hardware networks.
-- 🎯 **Looking Ahead:** Gearing up for my career placements this July and actively building my portfolio!
-- 🤝 **Collaborations:** Always open to teaming up on RTOS-based architectures, complex IoT automation, and bringing machine learning to edge devices.
-
-### 🚀 Featured Projects & Tinkering
-
-- 🚗 **Driver Management System:** A distributed hardware architecture integrating Raspberry Pi, ESP32, and STM32 nodes communicating seamlessly over a CAN bus.
-- 📱 **Secure Learning App:** A full-stack Flutter, Firebase, and Cloudflare platform featuring secure video streaming, testing, and student management (built for KS Academy).
-- 🤖 **Buddy:** An AI-powered voice assistant built in Python, integrating speech recognition and the Gemini API.
-- 🌿 **Smart Systems & Edge AI:** Developing a Smart Irrigation Rover, tuning PI controllers for BLDC motors in MATLAB/Simulink, and experimenting with YOLOv8 for face recognition and drowsiness monitoring.
-
-### 🛠️ My Tech Stack
-
-*   **Microcontrollers & Boards:** STM32, ESP32, Raspberry Pi, ARM Cortex-M3/M4
-*   **Core Embedded:** FreeRTOS, CAN Bus, Sensor Integration, MATLAB/Simulink
-*   **Software & AI:** C/C++, Python, Flutter, Firebase, YOLOv8
+</div>
 
 ---
 
-### 📫 Let's Connect!
+## 🧠 About Me
 
-- ✉️ **Email:** vigneshvicky2k3@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love making things move and think with code—whether it's designing entire distributed systems or programming an offline voice synthesizer just to make it say "Hello Rohan"!
+```c
+/* vignesh.h — System Initialization */
 
-<br>
-<p align="center"><i>Building intelligent systems, one microcontroller at a time.</i></p>
+#define NAME        "Vignesh V"
+#define ROLE        "Embedded Systems Developer"
+#define LOCATION    "India 🇮🇳"
+#define EMAIL       "vigneshvicky2k3@gmail.com"
 
-<!---
-Vicky6385435363/Vicky6385435363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+typedef struct {
+    char* learning[3];
+    char* interests[4];
+    char* funFact;
+} Developer;
+
+Developer vignesh = {
+    .learning  = { "PIC Microcontrollers", "ARM Cortex-M3/M4", "RTOS & Real-Time Systems" },
+    .interests = { "Embedded Systems", "IoT", "Automation", "Sensor Integration" },
+    .funFact   = "I love making things MOVE with code — motors, sensors, entire systems!"
+};
+```
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<div align="center">
+
+### ⚙️ Microcontrollers & Processors
+![PIC](https://img.shields.io/badge/PIC_Microcontroller-E84D0E?style=for-the-badge&logo=microchip&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex--M3%2FM4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 📡 Protocols & Interfaces
+![UART](https://img.shields.io/badge/UART-4E9AF1?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-0A7CC1?style=flat-square&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-1E90FF?style=flat-square&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN_Bus-FF6B35?style=flat-square&logoColor=white)
+![PWM](https://img.shields.io/badge/PWM-6A1B9A?style=flat-square&logoColor=white)
+![ADC/DAC](https://img.shields.io/badge/ADC%2FDAC-2E7D32?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![MPLAB X](https://img.shields.io/badge/MPLAB_X_IDE-E84D0E?style=for-the-badge&logo=microchip&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_uVision-003087?style=for-the-badge&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_Simulation-1565C0?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Focus Areas
+
+<div align="center">
+
+| 🔌 Embedded Systems | 📡 IoT Solutions | ⚙️ Automation | 🧩 Sensor Integration |
+|:---:|:---:|:---:|:---:|
+| PIC & ARM-based firmware | Connected device pipelines | Motor & actuator control | Interfacing diverse sensors |
+| Bare-metal & RTOS | MQTT & cloud connectivity | Real-time feedback loops | ADC, I2C, SPI sensor comms |
+| Interrupt & DMA handling | Edge intelligence | Closed-loop control | Signal conditioning & filtering |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vicky6385435363&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6385435363&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vicky6385435363&theme=midnight-purple&hide_border=true&background=0d0d1a)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+> **I'm actively looking to collaborate on:**
+> - 🤖 Hardware automation projects
+> - 📟 Real-time embedded control systems
+> - 🌐 IoT device development
+> - 🔬 Sensor fusion & integration projects
+
+**Got an idea that involves making something move, sense, or communicate?**
+**Let's build it together!** 👇
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/📬_Reach_Out-vigneshvicky2k3%40gmail.com-A78BFA?style=for-the-badge)](mailto:vigneshvicky2k3@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+*"The best way to predict the future is to build it — one register at a time."* ⚡
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vicky6385435363&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+</div>
