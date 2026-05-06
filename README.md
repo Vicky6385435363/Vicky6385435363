@@ -20,7 +20,7 @@
 ```c
 /* vignesh.h — System Initialization */
 
-#define NAME        "Vignesh V"
+#define NAME        "Vignesh K"
 #define ROLE        "Embedded Systems Developer"
 #define LOCATION    "India 🇮🇳"
 #define EMAIL       "vigneshvicky2k3@gmail.com"
