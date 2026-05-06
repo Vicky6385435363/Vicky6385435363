@@ -114,7 +114,7 @@ Developer vignesh = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-*"The best way to predict the future is to build it — one register at a time."* ⚡
+*"The best way to predict the future is to build it - one register at a time."* ⚡
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Vicky6385435363&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
