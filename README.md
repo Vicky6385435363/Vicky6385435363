@@ -91,23 +91,6 @@ Developer vignesh = {
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vicky6385435363&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6385435363&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vicky6385435363&theme=midnight-purple&hide_border=true&background=0d0d1a)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate!
 
 > **I'm actively looking to collaborate on:**
