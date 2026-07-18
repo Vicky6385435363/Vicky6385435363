@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```c
 /* vignesh.h — System Initialization */
@@ -40,7 +40,7 @@ Developer vignesh = {
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -51,14 +51,14 @@ Developer vignesh = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-### 💻 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### 📡 Protocols & Interfaces
+### Protocols & Interfaces
 ![UART](https://img.shields.io/badge/UART-4E9AF1?style=flat-square&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-0A7CC1?style=flat-square&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-1E90FF?style=flat-square&logoColor=white)
@@ -67,7 +67,7 @@ Developer vignesh = {
 ![ADC/DAC](https://img.shields.io/badge/ADC%2FDAC-2E7D32?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![MPLAB X](https://img.shields.io/badge/MPLAB_X_IDE-E84D0E?style=for-the-badge&logo=microchip&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_uVision-003087?style=for-the-badge&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -79,11 +79,11 @@ Developer vignesh = {
 
 ---
 
-## 🚀 Focus Areas
+## Focus Areas
 
 <div align="center">
 
-| 🔌 Embedded Systems | 📡 IoT Solutions | ⚙️ Automation | 🧩 Sensor Integration |
+| Embedded Systems | IoT Solutions | Automation | Sensor Integration |
 |:---:|:---:|:---:|:---:|
 | PIC & ARM-based firmware | Connected device pipelines | Motor & actuator control | Interfacing diverse sensors |
 | Bare-metal & RTOS | MQTT & cloud connectivity | Real-time feedback loops | ADC, I2C, SPI sensor comms |
@@ -91,16 +91,16 @@ Developer vignesh = {
 
 </div>
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
 > **I'm actively looking to collaborate on:**
-> - 🤖 Hardware automation projects
-> - 📟 Real-time embedded control systems
-> - 🌐 IoT device development
-> - 🔬 Sensor fusion & integration projects
+> - Hardware automation projects
+> - Real-time embedded control systems
+> - IoT device development
+> - Sensor fusion & integration projects
 
 **Got an idea that involves making something move, sense, or communicate?**
-**Let's build it together!** 👇
+**Let's build it together!**
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Developer vignesh = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-*"The best way to predict the future is to build it - one register at a time."* ⚡
+*"The best way to predict the future is to build it - one register at a time."* 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Vicky6385435363&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
