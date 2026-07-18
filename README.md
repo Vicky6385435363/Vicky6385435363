@@ -18,7 +18,7 @@
 ## About Me
 
 ```c
-/* vignesh.h — System Initialization */
+/* vignesh.h - System Initialization */
 
 #define NAME        "Vignesh K"
 #define ROLE        "Embedded Systems Developer"
@@ -34,7 +34,7 @@ typedef struct {
 Developer vignesh = {
     .learning  = { "PIC Microcontrollers", "ARM Cortex-M3/M4", "RTOS & Real-Time Systems" },
     .interests = { "Embedded Systems", "IoT", "Automation", "Sensor Integration" },
-    .funFact   = "I love making things MOVE with code — motors, sensors, entire systems!"
+    .funFact   = "I love making things MOVE with code - motors, sensors, entire systems!"
 };
 ```
 
@@ -104,7 +104,7 @@ Developer vignesh = {
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/📬_Reach_Out-vigneshvicky2k3%40gmail.com-A78BFA?style=for-the-badge)](mailto:vigneshvicky2k3@gmail.com)
+[![Email Me](https://img.shields.io/badge/_Reach_Out-vigneshvicky2k3%40gmail.com-A78BFA?style=for-the-badge)](mailto:vigneshvicky2k3@gmail.com)
 
 </div>
 
