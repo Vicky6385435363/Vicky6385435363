@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vignesh%20K&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Microcontroller%20Programming&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;PIC+%26+ARM+Cortex+M3%2FM4+Developer+%F0%9F%92%BB;Real-Time+Control+Systems+Enthusiast+%E2%9A%99%EF%B8%8F;IoT+%26+Automation+Builder+%F0%9F%9A%80;Making+Things+Move+With+Code+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;PIC+%26+ARM+Cortex+M3%2FM4+Developer;Real-Time+Control+Systems+Enthusiast;IoT+%26+Automation+Builder;Making+Things+Move+With+Code)](https://git.io/typing-svg)
 
 <!-- Contact Badges -->
 [![Email](https://img.shields.io/badge/Gmail-vigneshvicky2k3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshvicky2k3@gmail.com)
