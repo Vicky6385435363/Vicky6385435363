@@ -44,7 +44,7 @@ Developer vignesh = {
 
 <div align="center">
 
-### ⚙️ Microcontrollers & Processors
+### Microcontrollers & Processors
 ![PIC](https://img.shields.io/badge/PIC_Microcontroller-E84D0E?style=for-the-badge&logo=microchip&logoColor=white)
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex--M3%2FM4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
